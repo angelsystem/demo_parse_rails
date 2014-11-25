@@ -1,0 +1,11 @@
+development:
+  app_id: PrLCK0DAoOJvQccIIgPOr6D8vxfZcFQb7HoC6SJb
+  master_key: L0GkVbnM6HEATiha5QAKNhERYUpr7erBCyJeNZUN
+
+test:
+  app_id: PrLCK0DAoOJvQccIIgPOr6D8vxfZcFQb7HoC6SJb
+  master_key: L0GkVbnM6HEATiha5QAKNhERYUpr7erBCyJeNZUN
+
+production:
+  app_id: PrLCK0DAoOJvQccIIgPOr6D8vxfZcFQb7HoC6SJb
+  master_key: L0GkVbnM6HEATiha5QAKNhERYUpr7erBCyJeNZUN
